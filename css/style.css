@@ -1,0 +1,20 @@
+.wrap-container{
+  background-color: aquamarine;
+  height: 550px;
+  width: 550px;
+}
+
+.square{
+  height: 55px;
+  width: 55px;
+  background-color: rgb(205, 179, 12) ;
+  border: 1px solid black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.blue{
+  background-color: rgb(109, 151, 229);
+}
