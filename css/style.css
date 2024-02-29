@@ -18,3 +18,13 @@
 .blue{
   background-color: rgb(109, 151, 229);
 }
+.square2{
+  height: 60px;
+  width: 60px;
+  background-color: rgb(205, 179, 12) ;
+  border: 1px solid black;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
